@@ -5,3 +5,5 @@ TODO:
 * https://github.com/nats-io/nats.go
 * https://fly.io/docs/app-guides/nats-cluster/
 * https://github.com/fly-apps/nats-cluster/
+* tailscale
+* slack's nebula
