@@ -8,3 +8,4 @@ TODO:
 * tailscale
 * slack's nebula
 * mTLS
+* Dapr
